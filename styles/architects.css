@@ -109,6 +109,31 @@ main > section{
     
 
 }
+#feature-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 21px;
+}
+.feature-card {
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 30px 0 rgba(114, 114, 114, 1);
+    margin-bottom:20px;
+
+}
+.features{
+    gap:140px;
+}
+
+.feature-card .feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+
+}
+
 .fact-number{
     font-size: 2.8rem;
     font-weight: 600;
